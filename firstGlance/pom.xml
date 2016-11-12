@@ -114,7 +114,7 @@
         <artifactId>mysql-connector-java</artifactId>
         <version>${mysql.version}</version>
       </dependency>
-    </dependencies>
+        </dependencies>
   <build>
     <!-- 插件管理也是用于继承 -->
     <pluginManagement>
